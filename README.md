@@ -62,6 +62,7 @@ Supply-Chain-DBMS/
 │   ├── monthly_revenue.png
 │    └── Query outputs and results visualized from SQL analysis
 
+---
 ## 📊 Key SQL Analysis
 🔹 Top Selling Products
 Identifies best-performing products based on total quantity sold.
@@ -77,3 +78,15 @@ Tracks revenue performance over time to identify growth patterns.
 Measures delivery success rate and overall fulfillment efficiency.
 🔹 Low Stock Alerts
 Flags items that require urgent restocking.
+
+---
+## 🖼 ERD Diagram 
+![ERD Diagram](diagrams/erd.png) 
+
+---
+## 📸 Sample Query Outputs
+ Top Selling Products ![Top Selling Products](screenshots/top_selling_products.png) 
+ Revenue by Category ![Revenue by Category](screenshots/revenue_by_category.png) 
+ Low Stock Alert ![Low Stock](screenshots/low_stock.png)
+
+---
