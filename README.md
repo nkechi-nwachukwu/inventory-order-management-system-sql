@@ -60,4 +60,20 @@ Supply-Chain-DBMS/
 │   ├── low_stock.png
 │   ├── supplier_performance.png
 │   ├── monthly_revenue.png
-│    └── Query outputs and results visualized from SQL analysi
+│    └── Query outputs and results visualized from SQL analysis
+
+## 📊 Key SQL Analysis
+🔹 Top Selling Products
+Identifies best-performing products based on total quantity sold.
+🔹 Revenue by Category
+Analyzes total revenue generated across different product categories.
+🔹 Stock Shortage Detection
+Detects products with low inventory levels to prevent stockouts.
+🔹 Supplier Performance Ranking
+Evaluates supplier efficiency based on supply volume and order frequency.
+🔹 Monthly Revenue Trends
+Tracks revenue performance over time to identify growth patterns.
+🔹 Delivery Performance
+Measures delivery success rate and overall fulfillment efficiency.
+🔹 Low Stock Alerts
+Flags items that require urgent restocking.
