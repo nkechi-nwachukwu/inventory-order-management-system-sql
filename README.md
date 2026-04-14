@@ -34,3 +34,30 @@ The database consists of the following tables:
 ---
 
 ## 🗂 Project Structure
+Supply-Chain-DBMS/
+│
+├── README.md
+│   └── Project overview, features, and documentation
+│
+├── database/
+│   ├── schema.sql
+│   │   └── Database structure (CREATE DATABASE + TABLES)
+│   │
+│   ├── data.sql
+│       └── Sample data inserts for testing
+│
+├── queries/
+│   ├── analysis.sql
+│       └── SQL queries for business insights and reporting
+│
+├── diagrams/
+│   ├── erd.png
+│       └── Entity Relationship Diagram showing database structure
+│
+├── screenshots/
+│   ├── top_selling_products.png
+│   ├── revenue_by_category.png
+│   ├── low_stock.png
+│   ├── supplier_performance.png
+│   ├── monthly_revenue.png
+│    └── Query outputs and results visualized from SQL analysi
