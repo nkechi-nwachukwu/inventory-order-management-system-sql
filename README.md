@@ -3,6 +3,7 @@
 # 📌 Project Overview
 This project is a relational database system that simulates real-world supply chain and inventory operations, managing suppliers, products, warehouses, orders, and shipments.
 It also represents a core ERP module, showcasing how supply chain processes are integrated within a centralized system for efficient operations and decision-making.
+
 ---
 
 ## 🎯 Objective
