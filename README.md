@@ -1,7 +1,9 @@
-# 📦 Supply Chain & Inventory Management Database System
+# 📦 Inventory Order Management Database System
 
-## 📌 Project Overview
-This project is a relational database system designed to simulate a real-world supply chain and inventory management process. It manages suppliers, products, warehouses, inventory levels, purchase orders, sales orders, and shipments.
+# 📌 Project Overview
+This project is a relational database system that simulates real-world supply chain and inventory operations, managing suppliers, products, warehouses, orders, and shipments.
+It also represents a core ERP module, showcasing how supply chain processes are integrated within a centralized system for efficient operations and decision-making.
+
 ---
 
 ## 🎯 Objective
