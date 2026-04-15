@@ -101,3 +101,8 @@ flags items that require urgent restocking.
 ## 📌 Conclusion
 This project demonstrates how a structured database can effectively manage and analyze supply chain operations. By integrating inventory, sales, supplier, and shipment data, it provides insights into demand, revenue, stock levels, and operational efficiency.
 The analysis highlights opportunities in inventory optimization, supplier performance, and delivery efficiency. Overall, it showcases practical SQL skills in database design and real-world supply chain analysis.
+
+---
+## 📌 Author
+**Nkechi Nwachukwu**  
+Data Analyst | Excel • SQL • Power BI
