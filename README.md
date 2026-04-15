@@ -90,3 +90,14 @@ Flags items that require urgent restocking.
  Low Stock Alert ![Low Stock]
 
 ---
+## 🚀 Business Impact
+-Strong revenue from the Kitchen category highlights an opportunity to expand inventory and maximize sales.
+-Revenue growth in April indicates a positive trend that can be leveraged through scaling and promotions.
+-Low stock levels across several products pose a risk of lost sales, requiring timely restocking.
+-Uneven supplier contributions highlight the need to strengthen relationships with high-performing suppliers and reassess underperforming ones. 
+-Delivery delays indicate areas for improvement in logistics and customer experience.
+
+---
+## 📌 Conclusion
+This project demonstrates how a structured database can effectively manage and analyze supply chain operations. By integrating inventory, sales, supplier, and shipment data, it provides insights into demand, revenue, stock levels, and operational efficiency.
+The analysis highlights opportunities in inventory optimization, supplier performance, and delivery efficiency. Overall, it showcases practical SQL skills in database design and real-world supply chain analysis.
