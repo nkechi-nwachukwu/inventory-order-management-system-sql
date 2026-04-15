@@ -91,11 +91,11 @@ Flags items that require urgent restocking.
 
 ---
 ## 🚀 Business Impact
--Strong revenue from the Kitchen category highlights an opportunity to expand inventory and maximize sales.
--Revenue growth in April indicates a positive trend that can be leveraged through scaling and promotions.
--Low stock levels across several products pose a risk of lost sales, requiring timely restocking.
--Uneven supplier contributions highlight the need to strengthen relationships with high-performing suppliers and reassess underperforming ones. 
--Delivery delays indicate areas for improvement in logistics and customer experience.
+🔹 Strong revenue from the Kitchen category presents an opportunity to expand inventory and maximize sales
+🔹 Revenue growth in April indicates a positive trend that can be leveraged through scaling and targeted promotions
+🔹 Low stock levels across several products increase the risk of lost sales and require timely restocking strategies
+🔹 Uneven supplier contributions highlight the need to strengthen high-performing supplier relationships and reassess underperforming ones
+🔹 Delivery delays reveal inefficiencies in logistics that impact customer experience and require operational improvement
 
 ---
 ## 📌 Conclusion
