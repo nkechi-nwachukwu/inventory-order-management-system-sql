@@ -96,14 +96,19 @@ flags items that require urgent restocking.
 ---
 ## 🚀 Business Impact
 🔹 Strong revenue from the Kitchen category presents an opportunity to expand inventory and maximize sales
+
 🔹 Revenue growth in April indicates a positive trend that can be leveraged through scaling and targeted promotions
+
 🔹 Low stock levels across several products increase the risk of lost sales and require timely restocking strategies
+
 🔹 Uneven supplier contributions highlight the need to strengthen high-performing supplier relationships and reassess underperforming ones
+
 🔹 Delivery delays reveal inefficiencies in logistics that impact customer experience and require operational improvement
 
 ---
 ## 📌 Conclusion
-This project demonstrates how a structured database can effectively manage and analyze supply chain operations. By integrating inventory, sales, supplier, and shipment data, it provides insights into demand, revenue, stock levels, and operational efficiency.
+This project demonstrates how a structured database can effectively manage and analyze supply chain operations. 
+By integrating inventory, sales, supplier, and shipment data, it provides insights into demand, revenue, stock levels, and operational efficiency.
 The analysis highlights opportunities in inventory optimization, supplier performance, and delivery efficiency. Overall, it showcases practical SQL skills in database design and real-world supply chain analysis.
 
 ---
