@@ -81,7 +81,8 @@ flags items that require urgent restocking.
 
 ---
 ## 🖼 ERD Diagram 
-![ERD Diagram](diagrams/erd.png) 
+<img width="871" height="869" alt="EER diagram real png" src="https://github.com/user-attachments/assets/d3c1b510-6bfc-4916-a6b8-4c11ba0a4bbd" />
+
 
 ---
 ## 📸 Sample Query Outputs
