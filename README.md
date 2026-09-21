@@ -86,9 +86,12 @@ flags items that require urgent restocking.
 
 ---
 ## 📸 Sample Query Outputs
- Top Selling Products ![Top Selling Products] 
- Revenue by Category ![Revenue by Category] 
- Low Stock Alert ![Low Stock]
+ Top Selling Products <img width="916" height="575" alt="top selling products" src="https://github.com/user-attachments/assets/aff394b3-4206-4f3a-a20b-d07921ab9a5c" />
+
+ Revenue by Category <img width="908" height="579" alt="revenue by category" src="https://github.com/user-attachments/assets/bfc197c2-8523-4549-afd9-c649727a401f" />
+
+ Low Stock Alert <img width="910" height="650" alt="low stock alert" src="https://github.com/user-attachments/assets/8d309000-5027-430e-82a2-3dd588213ae0" />
+
 
 ---
 ## 🚀 Business Impact
