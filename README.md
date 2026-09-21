@@ -104,6 +104,13 @@ This project demonstrates how a structured database can effectively manage and a
 The analysis highlights opportunities in inventory optimization, supplier performance, and delivery efficiency. Overall, it showcases practical SQL skills in database design and real-world supply chain analysis.
 
 ---
-## 📌 Author
+## 👤 Author
+Nkechi Nwachukwu Business Analyst | Data & Operations Analytics
+
+Portfolio: https://dorothy-data-portfolio.lovable.app
+
+GitHub: https://github.com/nkechi-nwachukwu
+
+LinkedIn: https://linkedin.com/in/nkechi-nwachukwu-82ba911bb
 **Nkechi Nwachukwu**  
 Data Analyst | Excel • SQL • Power BI
