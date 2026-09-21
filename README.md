@@ -105,12 +105,9 @@ The analysis highlights opportunities in inventory optimization, supplier perfor
 
 ---
 ## 👤 Author
-Nkechi Nwachukwu Business Analyst | Data & Operations Analytics
-
+**Nkechi Nwachukwu Business Analyst | Data & Operations Analytics**
 Portfolio: https://dorothy-data-portfolio.lovable.app
 
 GitHub: https://github.com/nkechi-nwachukwu
 
 LinkedIn: https://linkedin.com/in/nkechi-nwachukwu-82ba911bb
-**Nkechi Nwachukwu**  
-Data Analyst | Excel • SQL • Power BI
