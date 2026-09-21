@@ -49,21 +49,30 @@ Supply-Chain-DBMS/
 │   │
 │   ├── data.sql
 │       └── Sample data inserts for testing
+
 │
 ├── queries/
 │   ├── analysis.sql
+
 │       └── SQL queries for business insights and reporting
-│
+
 ├── diagrams/
 │   ├── erd.png
 │       └── Entity Relationship Diagram showing database structure
+
 │
 ├── screenshots/
+
 │   ├── top_selling_products.png
+
 │   ├── revenue_by_category.png
+
 │   ├── low_stock.png
+
 │   ├── supplier_performance.png
+
 │   ├── monthly_revenue.png
+
 │    └── Query outputs and results visualized from SQL analysis
 
 ---
