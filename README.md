@@ -35,11 +35,15 @@ The database consists of the following tables:
 
 ## 🗂 Project Structure
 Supply-Chain-DBMS/
+
 │
 ├── README.md
+
 │   └── Project overview, features, and documentation
+
 │
 ├── database/
+
 │   ├── schema.sql
 │   │   └── Database structure (CREATE DATABASE + TABLES)
 │   │
