@@ -45,19 +45,24 @@ Supply-Chain-DBMS/
 ├── database/
 
 │   ├── schema.sql
+
 │   │   └── Database structure (CREATE DATABASE + TABLES)
 │   │
 │   ├── data.sql
+
 │       └── Sample data inserts for testing
 
 │
 ├── queries/
+
 │   ├── analysis.sql
 
 │       └── SQL queries for business insights and reporting
 
 ├── diagrams/
+
 │   ├── erd.png
+
 │       └── Entity Relationship Diagram showing database structure
 
 │
